@@ -1,0 +1,21 @@
+body {
+     font-family: sans-serif;
+     background: rgba(56, 56, 53, 0.213);
+     text-align: center;
+     font-size: 15px;
+}
+h1,h2 {
+     color: white;
+     font-size: 20px;
+     background-color: rgb(196, 28, 120);
+     padding: 20px;
+}
+
+footer a{
+     border:1px solid violet;
+     color:white;
+     padding: 2px;
+     margin: 7px;
+     text-decoration: none;
+     border-radius: 15px;
+}
